@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sohaib Akhlaq
 
-<!--
-**sohaibAkhlaq/sohaibAkhlaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering undergraduate currently in my 4th semester.
+I focus on building full-stack web applications using the MEAN stack.
 
-Here are some ideas to get you started:
+At the moment, I am working on strengthening my fundamentals in backend
+development while also building complete, usable front-end interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: Angular, HTML, CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+
+## What I'm Working On
+- Full-stack MEAN projects with authentication and CRUD features
+- Improving code structure, readability, and best practices
+- Building projects suitable for internships and real-world use
+
+## Contact
+- Email: sohaibikhlaq5@gmail.com
+- LinkedIn: www.linkedin.com/in/sohaib-akhlaq-70b69131a
