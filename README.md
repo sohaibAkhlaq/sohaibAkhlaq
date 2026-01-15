@@ -1,17 +1,16 @@
 # Hi, I'm Sohaib Akhlaq
 
-Software Engineering undergraduate with a strong foundation in C++ and Object-Oriented Programming.
-I focus on building structured, logic-driven systems and interactive applications, progressing from
-console-based programs to real-time graphical software.
+Software Engineering undergraduate with a strong foundation in C++ and Object-Oriented Programming.  
+I focus on building structured, logic-driven systems and interactive applications, progressing from console-based programs to real-time graphical software.
 
 ---
 
 ## About Me
-- Software Engineering student (4th Semester)
-- Strong command of C++ and Object-Oriented Programming
-- Experience building real-time graphical applications using SFML
-- Solid understanding of programming fundamentals and game logic
-- Currently preparing for software engineering internships
+- Software Engineering student (4th Semester)  
+- Strong command of C++ and Object-Oriented Programming  
+- Experience building real-time graphical applications using SFML  
+- Solid understanding of programming fundamentals and game logic  
+- Currently preparing for software engineering internships  
 
 ---
 
@@ -21,15 +20,15 @@ console-based programs to real-time graphical software.
 - C++
 
 **Concepts**
-- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)
-- Real-time input handling
-- File handling and data persistence
-- Game logic and system design
+- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)  
+- Real-time input handling  
+- File handling and data persistence  
+- Game logic and system design  
 
 **Libraries & Tools**
-- SFML
-- Git & GitHub
-- Visual Studio Code
+- SFML  
+- Git & GitHub  
+- Visual Studio Code  
 
 ---
 
@@ -39,16 +38,16 @@ console-based programs to real-time graphical software.
 A real-time monster battle game developed as an Object-Oriented Programming course project.
 
 **Key Highlights**
-- Real-time gameplay (not turn-based)
-- 1v1 and 2v2 battle modes
-- Guild war system
-- Training mode to increase player stats
-- In-game shop system
-- Leaderboard and progression tracking
-- Full use of OOP principles with structured class design
-- Graphics and input handling using SFML
+- Real-time gameplay (not turn-based)  
+- 1v1 and 2v2 battle modes  
+- Guild war system  
+- Training mode to increase player stats  
+- In-game shop system  
+- Leaderboard and progression tracking  
+- Full use of OOP principles with structured class design  
+- Graphics and input handling using SFML  
 
-➡️ Repository: `monster-pet-kingdom`
+➡️ Repository: `monster-pet-kingdom`  
 
 ---
 
@@ -56,35 +55,49 @@ A real-time monster battle game developed as an Object-Oriented Programming cour
 A console-based UNO card game developed during Programming Fundamentals.
 
 **Key Highlights**
-- Implements core UNO rules
-- Two-player console gameplay
-- File handling to store game results
-- Logic-driven design using fundamental programming concepts
+- Implements core UNO rules  
+- Two-player console gameplay  
+- File handling to store game results  
+- Logic-driven design using fundamental programming concepts  
 
-➡️ Repository: `UNO_Game`
-
----
-
-## Development Progression
-- Programming Fundamentals → Console-based C++ projects
-- Object-Oriented Design → Real-time graphical applications
-- Currently strengthening problem-solving and system design skills
+➡️ Repository: `UNO_Game`  
 
 ---
 
-## Technologies
+### 🌊 OceanRoute Nav (C++ / SFML)
+An **intelligent maritime navigation and logistics system** for optimizing cargo ship routes between international ports.
 
+**Key Highlights**
+- Graph-based representation of ports and sea routes  
+- Pathfinding using **Dijkstra’s** and **A*** algorithms  
+- Real-time visual feedback of optimal routes  
+- Multi-leg journey management using **linked lists**  
+- Docking and layover queue management for realistic port simulation  
+- Route filtering by shipping company, duration, and cost  
+- SFML-based **dynamic interactive visualization**  
+
+**Technologies & Visuals**
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-graphics-green)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
+➡️ Repository: `OceanRoute_Nav`  
+📄 Demo / Screenshots: *(Include links to images, videos, or GIFs if available)*  
+
+---
+
+## Development Progression
+- Programming Fundamentals → Console-based C++ projects  
+- Object-Oriented Design → Real-time graphical applications  
+- Currently strengthening problem-solving and system design skills  
+
 ---
 
 ## Contact
-- 📧 Email: sohaibakhlaq@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sohaib-akhlaq-70b69131a
+- 📧 Email: sohaibakhlaq@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/sohaib-akhlaq-70b69131a](https://www.linkedin.com/in/sohaib-akhlaq-70b69131a)  
 
 ---
 
-*This profile showcases my academic projects, technical foundations, and readiness for internship-level development work.*
+*This profile showcases my academic projects, technical foundations, and readiness for internship-level software development.*
