@@ -1,74 +1,74 @@
 # Hi, I'm Sohaib Akhlaq
 
-Software Engineering student with a strong foundation in C++ and Object-Oriented Programming.
-Currently building full-stack applications and graphical systems with a focus on clean design,
-structured code, and real-world problem solving.
+Software Engineering undergraduate with a strong foundation in C++ and Object-Oriented Programming.
+I focus on building structured, logic-driven systems and interactive applications, progressing from
+console-based programs to real-time graphical software.
 
 ---
 
 ## About Me
-- Software Engineering undergraduate (4th Semester)
-- Experience with C++, OOP, and graphical applications using SFML
-- Frontend development using HTML, CSS, and Bootstrap
-- Currently working with the MEAN stack (MongoDB, Express, Angular, Node.js)
-- Interested in backend systems, game logic, and full-stack development
+- Software Engineering student (4th Semester)
+- Strong command of C++ and Object-Oriented Programming
+- Experience building real-time graphical applications using SFML
+- Solid understanding of programming fundamentals and game logic
+- Currently preparing for software engineering internships
 
 ---
 
-## Technical Skills
+## Core Technical Skills
 
 **Languages**
 - C++
-- JavaScript
-- HTML5
-- CSS3
 
-**Frameworks & Libraries**
+**Concepts**
+- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)
+- Real-time input handling
+- File handling and data persistence
+- Game logic and system design
+
+**Libraries & Tools**
 - SFML
-- Bootstrap
-- Node.js
-- Express.js
-- Angular (learning & building)
-
-**Tools**
 - Git & GitHub
-- VS Code
-- File handling & build tools
+- Visual Studio Code
 
 ---
 
 ## Featured Projects
 
-### 🕹 Monster Pet Kingdom (C++ / SFML)
-Real-time monster battle game developed as an OOP course project.
-Includes 1v1, 2v2, guild wars, training mode, shop system, and leaderboard.
-Focuses on full OOP principles, real-time input handling, and graphical rendering.
+### 🏆 Monster Pet Kingdom (C++ / SFML)
+A real-time monster battle game developed as an Object-Oriented Programming course project.
 
-➡️ View Repository: `monster-pet-kingdom`
+**Key Highlights**
+- Real-time gameplay (not turn-based)
+- 1v1 and 2v2 battle modes
+- Guild war system
+- Training mode to increase player stats
+- In-game shop system
+- Leaderboard and progression tracking
+- Full use of OOP principles with structured class design
+- Graphics and input handling using SFML
 
----
-
-### 🌐 Book Store Website (HTML / CSS / Bootstrap)
-Static and responsive book store website developed as an ICT final project.
-Designed with clean layout, structured content, and responsive UI using Bootstrap.
-
-➡️ View Repository: `book-store-website`
+➡️ Repository: `monster-pet-kingdom`
 
 ---
 
 ### 🎮 UNO Game (C++ Console)
-Console-based UNO game developed during Programming Fundamentals.
-Implements core game rules, turn logic, and file handling for result storage.
+A console-based UNO card game developed during Programming Fundamentals.
 
-➡️ View Repository: `UNO_Game`
+**Key Highlights**
+- Implements core UNO rules
+- Two-player console gameplay
+- File handling to store game results
+- Logic-driven design using fundamental programming concepts
+
+➡️ Repository: `UNO_Game`
 
 ---
 
-## Development Journey
-- Programming Fundamentals with C++ (console-based logic projects)
-- Object-Oriented Programming with C++ and SFML
-- Frontend development using HTML, CSS, Bootstrap
-- Currently progressing towards full-stack development with MEAN stack
+## Development Progression
+- Programming Fundamentals → Console-based C++ projects
+- Object-Oriented Design → Real-time graphical applications
+- Currently strengthening problem-solving and system design skills
 
 ---
 
@@ -81,14 +81,12 @@ Implements core game rules, turn logic, and file handling for result storage.
 
 ---
 
-## Technologies I Work With
+## Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-graphics-green)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ---
 
@@ -98,4 +96,4 @@ Implements core game rules, turn logic, and file handling for result storage.
 
 ---
 
-*This GitHub profile reflects my academic projects, technical growth, and continuous learning as a software engineering student.*
+*This profile showcases my academic projects, technical foundations, and readiness for internship-level development work.*
