@@ -20,3 +20,7 @@ development while also building complete, usable front-end interfaces.
 ## Contact
 - Email: sohaibikhlaq5@gmail.com
 - LinkedIn: www.linkedin.com/in/sohaib-akhlaq-70b69131a
+
+## GitHub Stats
+![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibAlhlaq&show_icons=true&theme=default)
+
