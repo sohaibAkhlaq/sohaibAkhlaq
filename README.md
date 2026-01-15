@@ -72,15 +72,6 @@ A console-based UNO card game developed during Programming Fundamentals.
 
 ---
 
-## GitHub Activity
-
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibAlhlaq&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibAlhlaq&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sohaibAlhlaq)
-
----
-
 ## Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
