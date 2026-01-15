@@ -25,3 +25,12 @@ development while also building complete, usable front-end interfaces.
 ![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibAlhlaq&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibAlhlaq&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sohaibAlhlaq)
+
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![SFML](https://img.shields.io/badge/SFML-graphics-green)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
+
