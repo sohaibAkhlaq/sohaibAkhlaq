@@ -107,4 +107,4 @@ A console-based UNO card game developed during Programming Fundamentals.
 
 *This profile showcases my academic projects, technical foundations, and readiness for internship-level development work.*
 
-in this add ocean navigator a;so woth same negangemet and vciual links
+
