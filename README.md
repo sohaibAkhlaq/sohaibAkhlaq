@@ -24,3 +24,4 @@ development while also building complete, usable front-end interfaces.
 ## GitHub Stats
 ![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibAlhlaq&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibAlhlaq&layout=compact)
