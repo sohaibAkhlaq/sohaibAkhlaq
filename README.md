@@ -1,110 +1,128 @@
-# Hi, I'm Sohaib Akhlaq
+<div align="center">
 
-Software Engineering undergraduate with a strong foundation in C++ and Object-Oriented Programming.
-I focus on building structured, logic-driven systems and interactive applications, progressing from
-console-based programs to real-time graphical software.
+# 👋 Hi, I’m **Sohaib Akhlaq**
+### Software Engineering Undergraduate | FAST NUCES ’28
 
----
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;C%2B%2B+%7C+Object-Oriented+Programming;Data+Structures+Focused;Logic-Driven+System+Builder;Future+Software+Engineer" />
 
-## About Me
-- Software Engineering student (4th Semester)
-- Strong command of C++ and Object-Oriented Programming
-- Experience building real-time graphical applications using SFML
-- Solid understanding of programming fundamentals and game logic
-- Currently preparing for software engineering internships
+</div>
 
 ---
 
-## Core Technical Skills
+## 🧭 Professional Profile
 
-**Languages**
-- C++
+I am a **4th-semester Software Engineering student at FAST NUCES (Islamabad)** with a strong focus on **building solid computer science fundamentals** before moving toward advanced tools and frameworks.
 
-**Concepts**
-- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)
-- Real-time input handling
-- File handling and data persistence
-- Game logic and system design
+My core strengths lie in **C++**, **Object-Oriented Programming**, and **fundamental Data Structures**.  
+I prioritize understanding **how systems work internally**, which has helped me develop **clear logic**, **structured problem-solving**, and **clean design thinking**.
 
-**Libraries & Tools**
-- SFML
-- Git & GitHub
-- Visual Studio Code
+Alongside my core CS foundation, I also explore **UI/UX design**, the **MEAN stack**, and **software quality assurance concepts**, approaching new technologies with patience and depth rather than trends.
 
 ---
 
-## Featured Projects
+## 🧠 Core Technical Strengths
 
-### 🌊 OceanRoute Nav (C++ / SFML)
-An intelligent maritime navigation and logistics system for optimizing cargo ship routes between international ports.
+### 💻 Programming
+- **C++**
 
-**Key Highlights**
-- Graph-based representation of ports and sea routes  
-- Optimal pathfinding using **Dijkstra’s** and **A*** algorithms  
-- Real-time visualization of routes and algorithm progress  
-- Multi-leg journey management with **linked lists**  
-- Docking and layover queue management for realistic port simulation  
-- Route filtering by company, cost, and duration  
-- Full use of OOP principles with structured class design  
-- Graphics and input handling using **SFML**
+### 🧩 Computer Science Concepts
+- Object-Oriented Programming  
+  - Encapsulation  
+  - Inheritance  
+  - Polymorphism  
+- Data Structures  
+- Logical & algorithmic problem solving  
+- File handling & data persistence  
+- System & program design fundamentals  
 
-➡️ Repository: `OceanRoute_Nav`  
-
----
-
-### 🏆 Monster Pet Kingdom (C++ / SFML)
-A real-time monster battle game developed as an Object-Oriented Programming course project.
-
-**Key Highlights**
-- Real-time gameplay (not turn-based)
-- 1v1 and 2v2 battle modes
-- Guild war system
-- Training mode to increase player stats
-- In-game shop system
-- Leaderboard and progression tracking
-- Full use of OOP principles with structured class design
-- Graphics and input handling using SFML
-
-➡️ Repository: `monster-pet-kingdom`
+### 🎨 Design & Engineering Exposure
+- UI/UX Design (Figma)
+- MEAN Stack (Learning & Practice)
+- Software Quality Assurance concepts
 
 ---
 
-### 🎮 UNO Game (C++ Console)
-A console-based UNO card game developed during Programming Fundamentals.
+## 🛠️ Tools & Technologies
 
-**Key Highlights**
-- Implements core UNO rules
-- Two-player console gameplay
-- File handling to store game results
-- Logic-driven design using fundamental programming concepts
-
-➡️ Repository: `UNO_Game`
-
----
-
-## Development Progression
-- Programming Fundamentals → Console-based C++ projects  
-- Object-Oriented Design → Real-time graphical applications  
-- Data Structures & Algorithms → Graphs, Linked Lists, Queues, Priority Queues (applied in **OceanRoute Nav** for route optimization and docking management)  
-- Currently strengthening problem-solving and system design skills
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MEAN%20Stack-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-## Technologies
+## 🏆 Achievements & Recognition
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-graphics-green)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+- 🥇 **Bug Busters – Coding Competition Winner**
+- Strong academic focus on core Software Engineering principles
 
 ---
 
-## Contact
-- 📧 Email: sohaibakhlaq@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sohaib-akhlaq-70b69131a
+## 🎓 Education
+
+**National University of Computer & Emerging Sciences (FAST NUCES)**  
+📍 Islamabad  
+🎓 **BS Software Engineering**  
+📅 Aug 2024 – May 2028  
+
+**Fazaia Inter College (FIC)**  
+🎓 Intermediate – Pre-Engineering  
+📅 Aug 2022 – Jun 2024  
 
 ---
 
-*This profile showcases my academic projects, technical foundations, and readiness for internship-level development work.*
+## 🎯 Career Focus
 
+- Preparing for **Software Engineering Internships**
+- Interested in:
+  - Software Development
+  - System & Program Design
+  - Core Computer Science roles
+- Values:
+  - Clean engineering practices
+  - Thoughtful problem-solving
+  - Long-term technical growth
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohaibAkhlaq&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibAkhlaq&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:sohaibikhlaq5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sohaibikhlaq5@gmail.com-red?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sohaibakhlaq-fast">
+    <img src="https://img.shields.io/badge/LinkedIn-Sohaib%20Akhlaq-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/sohaibAkhlaq">
+    <img src="https://img.shields.io/badge/GitHub-sohaibAkhlaq-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/Sohaib_12/">
+    <img src="https://img.shields.io/badge/LeetCode-Sohaib_12-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://x.com/Sohaib84346165">
+    <img src="https://img.shields.io/badge/X(Twitter)-@Sohaib84346165-black?style=for-the-badge&logo=x"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *Focused on fundamentals today — building reliable software tomorrow.*
+
+</div>
