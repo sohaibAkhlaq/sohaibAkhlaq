@@ -3,7 +3,8 @@
 # 👋 Hi, I’m **Sohaib Akhlaq**
 ### Software Engineering Undergraduate | FAST NUCES ’28
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;C%2B%2B+%7C+Object-Oriented+Programming;Data+Structures+Focused;Logic-Driven+System+Builder;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0EA5E9&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;MEAN+Stack+Developer;UI%2FUX+Designer+%28Figma%29;C%2B%2B+Developer;Building+Clean+and+Scalable+Software" />
+
 
 </div>
 
