@@ -1,17 +1,17 @@
 # Hi, I’m Sohaib Akhlaq
 
 **Software Engineering Undergraduate | FAST NUCES ’28**  
-**C++, Java, Python | MEAN Stack | Core CS & System-Level Thinking**
+**C++, Java, Python | MEAN Stack | Core CS & Software Quality Focus**
 
 ---
 
 ## About Me
 
-I am a 4th-semester Software Engineering undergraduate at FAST NUCES (Islamabad) focused on **strong computer science fundamentals** and building **clean, scalable software**.
+I am a **4th-semester Software Engineering student at FAST NUCES (Islamabad)**, dedicated to **building strong computer science fundamentals** and creating **clean, scalable software**.  
 
-My primary expertise lies in **C++**, **Java**, and **Python**, supported by solid knowledge of **Data Structures**, **Object-Oriented Programming**, and **system-level problem solving**. I prioritize understanding **how software works internally**, from memory and logic to performance and design patterns.
+I specialize in **C++, Java, and Python**, with solid knowledge in **Object-Oriented Programming, Data Structures, Algorithms**, and **system-level problem solving**. My focus is on understanding **how software works internally**, designing efficient systems, and writing maintainable, production-ready code.  
 
-Alongside core CS, I explore **UI/UX design** and **full-stack web development (MEAN stack)**, practicing **real-world tools and APIs** to gain hands-on experience. I aim to combine strong fundamentals with practical engineering exposure.
+Alongside my CS foundation, I explore **UI/UX design**, **MEAN stack development**, and **software quality assurance**. I actively practice real-world tools and APIs, preparing for **competitive internships and technical roles**.
 
 ---
 
@@ -27,12 +27,12 @@ Alongside core CS, I explore **UI/UX design** and **full-stack web development (
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </p>
 
-### Computer Science Core
+### Core Computer Science
 - Object-Oriented Programming (C++, Java)  
 - Data Structures & Algorithms  
 - File Handling & Data Persistence  
 - Logical & Algorithmic Problem Solving  
-- System & Program Design Fundamentals  
+- Program & System Design Fundamentals  
 
 ### MEAN Stack & Web Technologies
 <p align="center">
@@ -43,7 +43,15 @@ Alongside core CS, I explore **UI/UX design** and **full-stack web development (
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="50" height="50"/>
 </p>
 
-### Tools & Development Environment
+### Software Quality Assurance Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Jira_logo.svg" alt="Jira" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_JMeter_Icon.png" alt="JMeter" width="50" height="50"/>
+</p>
+
+### Development & Collaboration Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
@@ -57,25 +65,25 @@ Alongside core CS, I explore **UI/UX design** and **full-stack web development (
 
 ## Projects
 
-Selected projects highlight:
+Selected projects showcase:
 
-- **C++ & Java application design**  
-- **Data structures & algorithm implementation**  
-- **MEAN stack mini-projects with MongoDB & Node.js APIs**  
-- **UI/UX design using Figma**  
+- **C++ & Java applications** with strong OOP design  
+- **Data structures & algorithm implementations**  
+- **MEAN stack mini-projects** with MongoDB & Node.js APIs  
+- **UI/UX prototypes using Figma**  
 - **REST API testing with Postman**  
+- **Basic software quality workflows with Selenium/Jira/JMeter**  
 
-Explore my work:  
+Explore all projects:  
 **https://github.com/sohaibAkhlaq**
 
 ---
 
 ## Problem Solving
 
-- Consistently practicing **data structures & algorithms**  
-- Improving **problem-solving & coding efficiency**  
+Consistently practicing **data structures and algorithms** to improve **coding efficiency, logic, and problem-solving skills**.  
 
-LeetCode:  
+LeetCode Profile:  
 **https://leetcode.com/u/Sohaib_12/**
 
 ---
@@ -89,28 +97,28 @@ LeetCode:
 
 ## Education
 
-**National University of Computer & Emerging Sciences (FAST NUCES)**  
-BS Software Engineering  
-Aug 2024 – May 2028  
-Islamabad, Pakistan  
+<div align="center">
 
-**Fazaia Inter College (FIC)**  
-Intermediate – Pre-Engineering  
-Aug 2022 – Jun 2024  
+| Degree | Institution | Period | Location |
+|--------|------------|--------|----------|
+| BS Software Engineering | **FAST NUCES** | Aug 2024 – May 2028 | Islamabad, Pakistan |
+| Intermediate – Pre-Engineering | **Fazaia Inter College (FIC)** | Aug 2022 – Jun 2024 | Islamabad, Pakistan |
+
+</div>
 
 ---
 
 ## Career Focus
 
-Preparing for **Software Engineering internships**.
+Preparing for **Software Engineering internships**.  
 
-Areas of interest:
+Areas of Interest:
 - Backend & Full-Stack Development  
-- Systems & Program Design  
 - Core Computer Science Roles  
-- Clean, maintainable software engineering  
+- Systems & Program Design  
+- Software Quality Assurance & Testing  
 
-I focus on **long-term growth** and **practical engineering experience** today to build scalable and reliable systems tomorrow.
+I focus on **long-term technical growth**, combining strong fundamentals with hands-on experience in modern tools and frameworks.
 
 ---
 
@@ -138,6 +146,6 @@ I focus on **long-term growth** and **practical engineering experience** today t
 
 <div align="center">
 
-### Focused on fundamentals today — building scalable software tomorrow.
+### Focused on fundamentals today — building scalable, reliable software tomorrow.
 
 </div>
