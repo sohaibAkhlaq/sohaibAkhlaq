@@ -1,16 +1,19 @@
 # Hi, I’m Sohaib Akhlaq
 
-**Software Engineering Undergraduate | FAST NUCES ’28 | C++ & Core CS Focused**
+**Software Engineering Undergraduate | FAST NUCES ’28**  
+**C++ Developer | Core Computer Science Focus | System-Level Thinking**
 
 ---
 
 ## About Me
 
-I am a Software Engineering undergraduate at FAST NUCES (Islamabad) with a strong emphasis on mastering computer science fundamentals before advancing to higher-level frameworks and tools.
+I am a Software Engineering undergraduate at FAST NUCES (Islamabad) focused on building strong computer science fundamentals and writing clean, maintainable software.
 
-My primary strength lies in C++ and Object-Oriented Programming, supported by a solid understanding of Data Structures, logical problem-solving, and system-level thinking. I focus on writing clean, structured, and maintainable code while deeply understanding how software works internally.
+My primary strength is C++ and Object-Oriented Programming, supported by solid knowledge of Data Structures, algorithmic thinking, and internal system design. I prioritize understanding how software works beneath the surface — memory behavior, structure, logic flow, and performance considerations.
 
-Alongside my core CS foundation, I actively explore UI/UX design and modern web technologies such as the MEAN stack, approaching each new domain with depth, clarity, and engineering discipline.
+Alongside my core CS foundation, I explore UI/UX design and full-stack web technologies (MEAN stack), approaching every tool with engineering discipline rather than trend-driven learning.
+
+I am currently preparing for competitive Software Engineering internships and technical roles.
 
 ---
 
@@ -18,20 +21,17 @@ Alongside my core CS foundation, I actively explore UI/UX design and modern web 
 
 ### Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
 </p>
 
-### Computer Science Foundations
-- Object-Oriented Programming  
-  - Encapsulation  
-  - Inheritance  
-  - Polymorphism  
+### Computer Science Core
+- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)  
 - Data Structures & Algorithms  
 - File Handling & Data Persistence  
 - Logical & Algorithmic Problem Solving  
-- System & Program Design Fundamentals  
+- Program Structure & System Design Fundamentals  
 
-### Frameworks & Tools (Exposure & Practice)
+### Frameworks & Technologies (Exposure & Practice)
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
@@ -40,25 +40,37 @@ Alongside my core CS foundation, I actively explore UI/UX design and modern web 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
 </p>
 
-### Tools & Platforms
+### Tools & Development Environment
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
 </p>
 
 ---
 
 ## Projects
 
-All of my projects are available at:  
+Selected academic and personal projects demonstrate:
+
+- Structured C++ application design  
+- Implementation of core data structures  
+- Logical problem decomposition  
+- Clean file-based data management  
+- Progressive exploration of full-stack web systems  
+
+Explore my work:  
 **https://github.com/sohaibAkhlaq**
 
 ---
 
 ## Problem Solving
 
-LeetCode:  
+Consistently practicing data structures and algorithms.
+
+LeetCode Profile:  
 **https://leetcode.com/u/Sohaib_12/**
 
 ---
@@ -66,7 +78,7 @@ LeetCode:
 ## Achievements
 
 - Winner – Bug Busters Coding Competition  
-- Strong academic focus on core Software Engineering principles  
+- Strong academic focus on Software Engineering fundamentals  
 
 ---
 
@@ -85,15 +97,15 @@ Aug 2022 – Jun 2024
 
 ## Career Focus
 
-Currently preparing for Software Engineering internships.
+Actively preparing for Software Engineering internships.
 
-Areas of interest:
-- Software Development  
-- Core Computer Science roles  
-- System & Program Design  
-- Clean Engineering Practices  
+Areas of Interest:
+- Core Software Development  
+- Systems & Program Design  
+- Backend Engineering  
+- Long-term Technical Depth  
 
-I value clarity in logic, depth in understanding, and long-term technical growth over short-term trends.
+I focus on building strong fundamentals today to engineer scalable and reliable systems tomorrow.
 
 ---
 
