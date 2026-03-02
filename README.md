@@ -47,7 +47,7 @@ Alongside my CS foundation, I explore **UI/UX design**, **MEAN stack development
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Jira_logo.svg" alt="Jira" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_JMeter_Icon.png" alt="JMeter" width="50" height="50"/>
 </p>
 
