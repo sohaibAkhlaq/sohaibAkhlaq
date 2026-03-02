@@ -101,7 +101,7 @@ LeetCode Profile:
 | Degree | Institution | Period | Location |
 |--------|------------|--------|----------|
 | BS Software Engineering | **FAST NUCES** | Aug 2024 – May 2028 | Islamabad, Pakistan |
-| Intermediate – Pre-Engineering | **Fazaia Inter College (FIC)** | Aug 2022 – Jun 2024 | Islamabad, Pakistan |
+| Intermediate – Pre-Engineering | **Fazaia Inter College (FIC)** | Aug 2022 – Jun 2024 | Rawalpindi, Pakistan |
 
 </div>
 
