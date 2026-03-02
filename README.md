@@ -48,7 +48,7 @@ Alongside my CS foundation, I explore **UI/UX design**, **MEAN stack development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Apache_JMeter_icon.svg/512px-Apache_JMeter_icon.svg.png" alt="JMeter" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachejmeter/apachejmeter-original.svg" alt="JMeter" width="50" height="50"/>
 </p>
 
 ### Development & Collaboration Tools
