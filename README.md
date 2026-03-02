@@ -1,129 +1,108 @@
-<div align="center">
+# Hi, I’m Sohaib Akhlaq
 
-# 👋 Hi, I’m **Sohaib Akhlaq**
-### Software Engineering Undergraduate | FAST NUCES ’28
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0EA5E9&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;MEAN+Stack+Developer;UI%2FUX+Designer+%28Figma%29;C%2B%2B+Developer;Building+Clean+and+Scalable+Software" />
-
-
-</div>
+**Software Engineering Undergraduate | FAST NUCES ’28 | C++ & Core CS Focused**
 
 ---
 
-## 🧭 Professional Profile
+## About Me
 
-I am a **4th-semester Software Engineering student at FAST NUCES (Islamabad)** with a strong focus on **building solid computer science fundamentals** before moving toward advanced tools and frameworks.
+I am a Software Engineering undergraduate at FAST NUCES (Islamabad) with a strong emphasis on mastering computer science fundamentals before advancing to higher-level frameworks and tools.
 
-My core strengths lie in **C++**, **Object-Oriented Programming**, and **fundamental Data Structures**.  
-I prioritize understanding **how systems work internally**, which has helped me develop **clear logic**, **structured problem-solving**, and **clean design thinking**.
+My primary strength lies in C++ and Object-Oriented Programming, supported by a solid understanding of Data Structures, logical problem-solving, and system-level thinking. I focus on writing clean, structured, and maintainable code while deeply understanding how software works internally.
 
-Alongside my core CS foundation, I also explore **UI/UX design**, the **MEAN stack**, and **software quality assurance concepts**, approaching new technologies with patience and depth rather than trends.
+Alongside my core CS foundation, I actively explore UI/UX design and modern web technologies such as the MEAN stack, approaching each new domain with depth, clarity, and engineering discipline.
 
 ---
 
-## 🧠 Core Technical Strengths
+## Tech Stack
 
-### 💻 Programming
-- **C++**
+### Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</p>
 
-### 🧩 Computer Science Concepts
+### Computer Science Foundations
 - Object-Oriented Programming  
   - Encapsulation  
   - Inheritance  
   - Polymorphism  
-- Data Structures  
-- Logical & algorithmic problem solving  
-- File handling & data persistence  
-- System & program design fundamentals  
+- Data Structures & Algorithms  
+- File Handling & Data Persistence  
+- Logical & Algorithmic Problem Solving  
+- System & Program Design Fundamentals  
 
-### 🎨 Design & Engineering Exposure
-- UI/UX Design (Figma)
-- MEAN Stack (Learning & Practice)
-- Software Quality Assurance concepts
-
----
-
-## 🛠️ Tools & Technologies
-
+### Frameworks & Tools (Exposure & Practice)
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MEAN%20Stack-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Recognition
+## Projects
 
-- 🥇 **Bug Busters – Coding Competition Winner**
-- Strong academic focus on core Software Engineering principles
+All of my projects are available at:  
+**https://github.com/sohaibAkhlaq**
 
 ---
 
-## 🎓 Education
+## Problem Solving
+
+LeetCode:  
+**https://leetcode.com/u/Sohaib_12/**
+
+---
+
+## Achievements
+
+- Winner – Bug Busters Coding Competition  
+- Strong academic focus on core Software Engineering principles  
+
+---
+
+## Education
 
 **National University of Computer & Emerging Sciences (FAST NUCES)**  
-📍 Islamabad  
-🎓 **BS Software Engineering**  
-📅 Aug 2024 – May 2028  
+BS Software Engineering  
+Aug 2024 – May 2028  
+Islamabad, Pakistan  
 
 **Fazaia Inter College (FIC)**  
-🎓 Intermediate – Pre-Engineering  
-📅 Aug 2022 – Jun 2024  
+Intermediate – Pre-Engineering  
+Aug 2022 – Jun 2024  
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 
-- Preparing for **Software Engineering Internships**
-- Interested in:
-  - Software Development
-  - System & Program Design
-  - Core Computer Science roles
-- Values:
-  - Clean engineering practices
-  - Thoughtful problem-solving
-  - Long-term technical growth
+Currently preparing for Software Engineering internships.
 
----
+Areas of interest:
+- Software Development  
+- Core Computer Science roles  
+- System & Program Design  
+- Clean Engineering Practices  
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaibAkhlaq&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibAkhlaq&layout=compact&theme=tokyonight" height="160"/>
-</p>
+I value clarity in logic, depth in understanding, and long-term technical growth over short-term trends.
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
-<p align="center">
-  <a href="mailto:sohaibikhlaq5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sohaibikhlaq5@gmail.com-red?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sohaibakhlaq-fast">
-    <img src="https://img.shields.io/badge/LinkedIn-Sohaib%20Akhlaq-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/sohaibAkhlaq">
-    <img src="https://img.shields.io/badge/GitHub-sohaibAkhlaq-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://leetcode.com/u/Sohaib_12/">
-    <img src="https://img.shields.io/badge/LeetCode-Sohaib_12-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://x.com/Sohaib84346165">
-    <img src="https://img.shields.io/badge/X(Twitter)-@Sohaib84346165-black?style=for-the-badge&logo=x"/>
-  </a>
-</p>
+- Email: sohaibikhlaq5@gmail.com  
+- GitHub: https://github.com/sohaibAkhlaq  
+- LinkedIn: https://www.linkedin.com/in/sohaibakhlaq-fast  
+- LeetCode: https://leetcode.com/u/Sohaib_12/  
+- X (Twitter): https://x.com/Sohaib84346165  
 
 ---
-
-<div align="center">
-
-### 💡 *Focused on fundamentals today — building reliable software tomorrow.*
-
-</div>
