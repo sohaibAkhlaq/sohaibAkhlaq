@@ -11,7 +11,7 @@ I am a **4th-semester Software Engineering student at FAST NUCES (Islamabad)**, 
 
 Alongside my CS foundation, I explore **UI/UX design**, **MEAN stack development**, and **software quality assurance**. I actively practice real-world tools and APIs, preparing for **competitive internships and technical roles**.
 
-You can explore my work, projects, and technical journey through my personal portfolio:
+You can explore my work, projects, and technical journey through my personal portfolio:<br>
 https://sohaibAkhlaq.github.io/sohaib_portfolio/
 
 ---
