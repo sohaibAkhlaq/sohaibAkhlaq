@@ -9,9 +9,10 @@
 
 I am a **4th-semester Software Engineering student at FAST NUCES (Islamabad)**, dedicated to **building strong computer science fundamentals** and creating **clean, scalable software**.  
 
-I specialize in **C++, Java, and Python**, with solid knowledge in **Object-Oriented Programming, Data Structures, Algorithms**, and **system-level problem solving**. My focus is on understanding **how software works internally**, designing efficient systems, and writing maintainable, production-ready code.  
-
 Alongside my CS foundation, I explore **UI/UX design**, **MEAN stack development**, and **software quality assurance**. I actively practice real-world tools and APIs, preparing for **competitive internships and technical roles**.
+
+You can explore my work, projects, and technical journey through my personal portfolio:
+https://sohaibAkhlaq.github.io/sohaib_portfolio/
 
 ---
 
