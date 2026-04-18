@@ -1,6 +1,6 @@
-# Hi, I’m Sohaib Akhlaq
+# Hi, I'm Sohaib Akhlaq
 
-**Software Engineering Undergraduate | FAST NUCES ’28**  
+**Software Engineering Undergraduate | FAST NUCES '28**  
 **C++, Java, Python | MEAN Stack | Core CS & Software Quality Focus**
 
 ---
@@ -19,6 +19,7 @@ https://sohaibAkhlaq.github.io/sohaib_portfolio/
 ## Tech Stack
 
 ### Programming Languages
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
@@ -36,6 +37,7 @@ https://sohaibAkhlaq.github.io/sohaib_portfolio/
 - Program & System Design Fundamentals  
 
 ### MEAN Stack & Web Technologies
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
@@ -44,14 +46,16 @@ https://sohaibAkhlaq.github.io/sohaib_portfolio/
 </p>
 
 ### Software Quality Assurance Tools
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="50" height="50"/>
 </p>
 
 ### Development & Collaboration Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
